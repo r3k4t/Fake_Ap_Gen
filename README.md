@@ -52,7 +52,7 @@ fake_ap_gen3.py  is ubuntu python script.
 <li>sudo python3 fake_ap_gen.py</li>
 </ul>
 
-### <== Screentshots ==> ###
+### Screentshots ###
 
 ![Screenshot at 2020-10-15 10-30-52](https://user-images.githubusercontent.com/69615463/96082128-48adb300-0ed8-11eb-8315-673ebdbac95d.png)
 
@@ -62,6 +62,6 @@ Next
 
 Next
 
-
+![IMG_20201015_094810](https://user-images.githubusercontent.com/69615463/96082661-73e6d100-0edd-11eb-85bd-c7291776ec3c.jpg)
 
 
